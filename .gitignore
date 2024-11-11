@@ -166,3 +166,5 @@ cython_debug/
 *.par
 *.parquet
 *.pickle
+goodsread/interactions.parquet
+goodsread/books.parquet
